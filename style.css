@@ -1,0 +1,15 @@
+body {
+    background: rgb(158, 146, 146);
+}
+h1 { 
+color: rgb(3, 107, 159);
+font-size: 40px;
+font-family: sans-serif;
+text-align: center;}
+
+p {
+color: rgb(255, 72, 11);
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+
+}
